@@ -1,7 +1,10 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Desert Island
+  url: /desert-island/
 
-- title: External Link
-  url: http://mademistakes.com
+- title: todbot
+  url: http://www.tobotbot.com
+
+- title: carlynorama
+  url: http://www.carlynorama.com
