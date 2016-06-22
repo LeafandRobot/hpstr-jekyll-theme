@@ -14,16 +14,17 @@ C: Hey Tod.
 
 T: Hey Carlyn. Yes I was just looking for something to munch on.
 
-C: What would you bring to s desert Island?
+C: What would you bring to a desert island?
 
 T: Carlyn.
 
 C: (Smile) Okay if you had to bring five things.
 
-T: 5 carlyns.
-T:(normally you spell out numbers less than 9)
+T: 5 Carlyns.
 
-C: Okay thats really cute, but I don't know thats really use advice to folks who can't bring carlyns.
+T:(normally you spell out numbers less than 10)
+
+C: Okay that's really cute, but I don't know thats really use advice to folks who can't bring Carlyns.
 
 T: (noises from kitchen)
 
@@ -33,10 +34,10 @@ T: (more noises from kitchen)
 
 C: (gets up and walks into kitchen)
 
-C: 5 things.
+C: Five things.
 
-T: Ummm... 2 laptops, 2 staelite internet connectons and one carlyn.
+T: Ummm... 2 laptops, 2 satellite internet connections, and one Carlyn.
 
 C: (shakes head)
 
-T: What? 
+T: What?
