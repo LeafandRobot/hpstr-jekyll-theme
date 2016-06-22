@@ -15,3 +15,5 @@ Today is our first wedding anniversary. Traditionally the first anniversary is p
 We're starting out with Jekyll, because there wasn't a good enough reason not to.
 
 Using the hpstr theme because, who wouldn't with a name like that.
+
+(Okay, so I'm also a traditionalist. Poster is from the party where we met.)
