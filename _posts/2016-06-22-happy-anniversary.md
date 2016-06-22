@@ -6,7 +6,7 @@ author: carlynorama
 modified: 2016-06-22
 tags: [smooches]
 image:
-  feature: abstract-3.jpg
+  feature: 2016-06-22/poster.jpg
   credit: carlynorama
 ---
 
