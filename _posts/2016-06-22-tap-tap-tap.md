@@ -7,7 +7,7 @@ modified: 2016-06-22
 tags: [smooches]
 image:
   feature: 2016-06-22/carlyn-n-tod.jpg
-  credit: carlynorama
+  credit: todbot
 ---
 
 Hey let's try static site generation!  
